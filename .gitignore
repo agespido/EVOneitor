@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Movimientos_EVO.xls
+category_lists.py
+.DS_Store
